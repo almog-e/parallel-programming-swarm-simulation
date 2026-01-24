@@ -5,7 +5,6 @@ This example runs a TCP server that logs received lines.
 ## Run
 
 ```bash
-cd go_server
 go run main.go
 ```
 
