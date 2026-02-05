@@ -3,7 +3,6 @@ This project demonstrates a distributed parallel simulation of a drone swarm exp
 
 ## Project Screenshots (from original project)
 ![original](./media/running_example.gif)
-(./running_example.gif)
 
 ## Starter Kit
 
@@ -15,12 +14,14 @@ This project demonstrates a distributed parallel simulation of a drone swarm exp
 ![server](media/go_server.png)
 *and after ./cpp_to_go_http_client*
 
-![Starter Kit Modules](media/rec.gif)
-*more.*
+<!-- ![Starter Kit Modules](media/rec.gif) -->
+<!-- *more.* -->
+<!-- Note: rec.gif placeholder - add actual recording when available -->
 
 
-![Starter Kit Modules](media/cell.gif)
-*in cell mode.*
+<!-- ![Starter Kit Modules](media/cell.gif) -->
+<!-- *in cell mode.* -->
+<!-- Note: cell.gif placeholder - add actual recording when available -->
 
 
 ## Included in the Starter Kit
